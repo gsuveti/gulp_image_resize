@@ -1,0 +1,23 @@
+{
+  "name": "gulp_image_resize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-foreach": "^0.1.0",
+    "gulp-image": "^2.0.1",
+    "gulp-image-resize": "^0.9.0",
+    "gulp-image-resize-ar": "^0.1.2",
+    "gulp-imagemin": "^3.0.1",
+    "imagemin-jpegoptim": "^5.0.0"
+  },
+  "dependencies": {
+    "gulp-print": "^2.0.1"
+  }
+}
